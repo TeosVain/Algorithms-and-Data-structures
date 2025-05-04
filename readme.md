@@ -22,8 +22,7 @@ The code is organized into folders by category:
 │ └── dynamic_programming/ # DP solutions to optimization problems
 │
 └── Problems/ # Solutions to specific computational problems
-│ ├── knapsack/ # Knapsack problem implementations
-│ ├── shortest_path/ # Dijkstra, Bellman-Ford, etc.
+│ ├── Knapsack_problem/ # Knapsack problem implementations
 │ ├── ... # More to come!
 ```
 
