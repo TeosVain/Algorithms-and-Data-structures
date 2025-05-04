@@ -30,4 +30,4 @@ The code is organized into folders by category:
 ```
 
 ## Author
-TeosVain
+TeosVain | Timofey Kononov
